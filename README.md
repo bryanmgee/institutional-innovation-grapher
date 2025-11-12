@@ -1,4 +1,6 @@
-# Institutional Innovation Grapher
+![STATUS](https://img.shields.io/badge/deprecated-red.svg)
+
+# DEPRECATED
 This repository contains scripts for collecting and analyzing data about open source activity associated with a university or institution.
 
 ## Tools
