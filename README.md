@@ -1,4 +1,4 @@
-![STATUS](https://img.shields.io/badge/deprecated-red.svg)
+![STATUS](https://img.shields.io/badge/deprecated-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # DEPRECATED
 This repository contains scripts for collecting and analyzing data about open source activity associated with a university or institution.
