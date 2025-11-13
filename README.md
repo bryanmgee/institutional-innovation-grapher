@@ -1,5 +1,5 @@
 > [!WARNING]
-> This repository has been archived and is no longer being maintained.
+> # 🛑 This repository has been archived and is no longer being maintained.
 
 
 <details open>
