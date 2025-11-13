@@ -1,3 +1,13 @@
+> [!WARNING]
+> This repository has been archived and is no longer being maintained.
+
+
+<details open>
+<summary><h2>🚨 ARCHIVED REPOSITORY - READ-ONLY 🚨</h2></summary>
+
+### 🛑 This project is no longer maintained.
+All issues and pull requests have been closed. Please refer to the README for next steps.
+
 ![STATUS](https://img.shields.io/badge/deprecated-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # DEPRECATED
